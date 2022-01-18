@@ -1,4 +1,4 @@
-Se trata de una aplicación CRUD, desarrollada con React y estilada con Tailwindcss.
+Se trata de una aplicación CRUD con paginación, desarrollada en React y estilada con Tailwindcss.
 
 Instalación
 1. Una vez clonado el repositorio en local, debemos proceder a escribir en consola el comando "npm install"
