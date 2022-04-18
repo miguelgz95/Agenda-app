@@ -1,6 +1,6 @@
 Installation:
 1. In order to get a local copy up and running you will need to clone the repo:
-git clone git@github.com:miguelgz95/Agenda-app.git
+- git clone git@github.com:miguelgz95/Agenda-app.git
 
 2. Then, install the NPM packages in the project folder with:
 - npm install
