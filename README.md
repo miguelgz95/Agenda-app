@@ -3,14 +3,14 @@ Installation:
 git clone git@github.com:miguelgz95/Agenda-app.git
 
 2. Then, install the NPM packages in the project folder with:
-npm install
+- npm install
 
 3. In the project directory, you can run:
-npm start
+- npm start
 
 Started the application, to access it enter the following credentials:
-User name: salvador
-Password: 1234
+- Username: salvador
+- Password: 1234
 
 Some screenshots:
 
